@@ -13,7 +13,7 @@ const pizzaPromise = new Promise((resolve, reject) => {
 
     if (pizzaReady) {
         // Fullfills the promise and sends data to .then()
-        resolve("🍕 Pizza delivered!");
+        resolve("🍕 Pizza delivered!!!!!");
     } else {
         // Rejects the promise and sends an error to .catch()
         reject("❌ Order cancelled.");
