@@ -1,6 +1,6 @@
 
 // import the add and subtract functions exported from math.js
-import { add, subtract, name } from "./math.js"
+import { add, subtract, name } from "./math.mjs"
 
 console.log(add(2, 3))
 console.log(subtract(5, 2))

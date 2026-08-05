@@ -1,0 +1,2 @@
+Hello from data.txt!
+This file is being read to demonstrate blocking vs non-blocking I/O in Node.js.
